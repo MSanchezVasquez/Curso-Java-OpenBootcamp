@@ -5,6 +5,6 @@ public class Proyecto {
         System.out.println("Hola soy Moises.");
         System.out.println("Tengo "+18+ " años.");
         System.out.println("Mido "+1.95+" metros de altura.");
-        System.out.println("Soltero: "+true);
+        System.out.print("Soltero: "+true);
     }
 }
